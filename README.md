@@ -72,8 +72,9 @@ The pipeline generates a comprehensive dashboard:
 3.  **Correlation Matrix**: Rolling heatmap of asset correlations.
 4.  **Distribution**: Return histograms with VaR cutoffs.
 
-`[Placehoder: Dashboard Screenshot]`
-`[Placehoder: Breach Statistics Table]`
+<img width="1599" height="800" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ec616ef9-308b-4f87-a33b-5738a7560868" />
+<img width="872" height="127" alt="Screenshot_3" src="https://github.com/user-attachments/assets/b9304f65-b8b3-4219-85c9-965cde4d259d" />
+<img width="477" height="230" alt="Screenshot_2" src="https://github.com/user-attachments/assets/21599da2-0c2d-4a44-b114-351290d8572c" />
 
 ---
 
